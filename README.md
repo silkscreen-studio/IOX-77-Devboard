@@ -1,4 +1,4 @@
-# IOX-77: An ESP32 based Devboard with 75 GPIOs available (ESP32 Core with 5 CH32V003 MCUs)
+# IOX-77: An ESP32 based Devboard with 75 GPIOs available (ESP32 Core with 5 CH32V003 MCUs) 
 
 <br><br>
 <p align="center">
